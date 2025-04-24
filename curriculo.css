@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(138, 219, 166) ;
+
+
+
+h1 {
+    color: gray;
+    background-color: brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.imagem-arredondada{
+    width: 150;
+    height: 150;
+    border-radius: 50%;
+}

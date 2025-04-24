@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    font-size: 24px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    
+
+
+
+}
+
+.imagem-arredondada{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
