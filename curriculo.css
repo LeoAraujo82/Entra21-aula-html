@@ -35,3 +35,12 @@ h1 {
     .icones-contato img:hover {
         transform: scale(1.2); /* Efeito de zoom ao passar o mouse */
     }
+
+    .footer {
+        display: flex;
+        text-decoration: underline;
+        width: 35px;
+        height: 35px;
+        margin-block: initial;
+        margin-block-end: 10px;
+    }
